@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Hilerioluwa12
+- 👀 I’m interested in Data Analysis
 - 👀 I’m interested in Full Stack Programming 
 - 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate on Full Stack Programming
-- 📫 How to reach me  08187658547
+- 📫 How to reach me  09161236472
 
 <!---
 Hilerioluwa12/Hilerioluwa12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
