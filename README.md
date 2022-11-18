@@ -9,7 +9,7 @@
 Hilerioluwa12/Hilerioluwa12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">👋 Hello! I'm Lydia uzoma </h1>
+<h1 align="center">👋 Hello! I'm Adebayo Martins Abayomi </h1>
 <h3 align="center">I'm open to new job opportunities and challenges</h3>
 
 [![Github views](https://komarev.com/ghpvc/?username=HeDevedUp&style=flat-square&color=green)](https://github.com/shelcia)<div align="left" width="50%">
