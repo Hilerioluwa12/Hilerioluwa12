@@ -54,11 +54,11 @@ You can click the Preview link to take a look at your changes.
   <br>
 
  <div align="center">
-   <img height="auto" width="91%" src="https://github-readme-stats.vercel.app/api?username=lydiauzoma&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="Adebayo Martins Abayomi  Github Stats" />
+   <img height="auto" width="91%" src="https://github-readme-stats.vercel.app/api?username=Hilerioluwa12&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="Adebayo Martins Abayomi  Github Stats" />
 </div>
 <div align="center">  
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lydiauzoma&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" alt="Jesse Uzoma Most Used Languages" />
-  <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=lydiauzoma&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="lydia uzoma  Github Current Streak" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilerioluwa12&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" alt="Jesse Uzoma Most Used Languages" />
+  <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=Hilerioluwa12&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Adebayo Martins Abayomi  Github Current Streak" /> 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FADD92&height=120&section=footer"/>
