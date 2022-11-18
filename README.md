@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">👋 Hello! I'm Adebayo Martins Abayomi </h1>
 <h3 align="center">I'm open to new job opportunities and challenges</h3>
 
-[![Github views](https://komarev.com/ghpvc/?username=HeDevedUp&style=flat-square&color=green)](https://github.com/shelcia)<div align="left" width="50%">
+[![Github views](https://komarev.com/ghpvc/?username=Hilerioluwa12&style=flat-square&color=green)](https://github.com/shelcia)<div align="left" width="50%">
   <h2> About me </h2>
   
   I'm a pragmatic software engineering student   with a passion for technology and software engineering looking to work with great people and solve challenging problems. Ever eager to learn and work outside of my comfort zone. 
