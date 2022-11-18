@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 <div>
   
 ### Contact me:
-  <a href="mailto:lydiauzoma@yahoo.com?subject=Want%20to%20contact" target="_blank"><img align="left" alt="uzomaesse@gmail.com" width="22px" src="https://github.com/twbs/icons/blob/main/icons/envelope-fill.svg" /></a>
+  <a href="mailto:hardexileroluwa@gmail.com?subject=Want%20to%20contact" target="_blank"><img align="left" alt="uzomaesse@gmail.com" width="22px" src="https://github.com/twbs/icons/blob/main/icons/envelope-fill.svg" /></a>
   <a href="https://www.linkedin.com/in/lydia uzoma/" target="_blank"><img align="left" alt="jesse uzoma LinkedIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a/>
     <a href="https://twitter.com/she_deved_up" target="_blank"><img align="left" alt="dev tochi Twitter Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /><a/>
 <br />
@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
   <br>
 
  <div align="center">
-   <img height="auto" width="91%" src="https://github-readme-stats.vercel.app/api?username=lydiauzoma&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="lydia uzoma  Github Stats" />
+   <img height="auto" width="91%" src="https://github-readme-stats.vercel.app/api?username=lydiauzoma&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="Adebayo Martins Abayomi  Github Stats" />
 </div>
 <div align="center">  
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lydiauzoma&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" alt="Jesse Uzoma Most Used Languages" />
