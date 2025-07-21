@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hilerioluwa12
-- 👀 I’m a Software Engineer - Backend Developer
-- 👀 I’m a Data Analyst
-- 🌱 I’m learning with ALX
-- 💞️ I’m looking to collaborate on Full Stack Programming
+- 👀 I’m a Data Science
+- 💞️ I’m looking to collaborate on ML/DL or AI Engineering
+- 👀 Software Engineer - Backend Developer Enthusiast
+- 🌱 ALX Alumni
 - 📫 How to reach me  08187658547
 
 <!---
@@ -10,17 +10,17 @@ Hilerioluwa12/Hilerioluwa12 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">👋 Hello! I'm Adebayo Martins Abayomi </h1>
-<h3 align="center">I'm open to new job opportunities and challenges</h3>
+<h3 align="center">I'm open to new job opportunities, challenges and collaborations</h3>
 
 [![Github views](https://komarev.com/ghpvc/?username=Hilerioluwa12&style=flat-square&color=green)](https://github.com/shelcia)<div align="left" width="50%">
   <h2> About me </h2>
   
-  I'm a pragmatic software engineering student   with a passion for technology and software engineering looking to work with great people and solve challenging problems. Ever eager to learn and work outside of my comfort zone. 
+  I'm a pragmatic Data Science student with a passion for Machine learning, Deep learning and AI engineering looking to work with great people and solve challenging problems. Ever eager to learn and work outside of my comfort zone. 
   
-**My goal as a developer is to build digital solutions that solve real-world problems, provide value for businesses, and help people.**
+**My goal as a Data Science expert is to build models and deploy production ready tools that solve real-world problems, provide value for businesses, and help people.**
 
-  - 💻 I’m currently learning how to improve my code quality using SOLID principles and Design Patterns. 
-  - 💬 Ask me about C, Python, HTML  CSSand javascript.
+  - 💻 I’m continuosly learning how to improve my skills using SOLID principles and Design Patterns. 
+  - 💬 Ask me about Python (libraries like Pandas, NumPy, TensorFlow, PyTorch), model evaluation (accuracy, precision, recall, etc.) and techniques like cross-validation.
   - ⚡ Quote: DO HARD THINGS!!! 
 <div>
   
