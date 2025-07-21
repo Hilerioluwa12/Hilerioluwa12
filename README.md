@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hilerioluwa12
-- 👀 I’m a Data Science
+- 👀 I’m a Data Science Expert
 - 💞️ I’m looking to collaborate on ML/DL or AI Engineering
 - 👀 Software Engineer - Backend Developer Enthusiast
 - 🌱 ALX Alumni
@@ -25,9 +25,9 @@ You can click the Preview link to take a look at your changes.
 <div>
   
 ### Contact me:
-  <a href="mailto:hardexileroluwa@gmail.com?subject=Want%20to%20contact" target="_blank"><img align="left" alt="uzomaesse@gmail.com" width="22px" src="https://github.com/twbs/icons/blob/main/icons/envelope-fill.svg" /></a>
-  <a href="https://www.linkedin.com/in/lydia uzoma/" target="_blank"><img align="left" alt="jesse uzoma LinkedIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a/>
-    <a href="https://twitter.com/she_deved_up" target="_blank"><img align="left" alt="dev tochi Twitter Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /><a/>
+  <a href="mailto:hardexileroluwa@gmail.com?subject=Want%20to%20contact" target="_blank"><img align="left" alt="hardexilerioluwa@gmail.com" width="22px" src="https://github.com/twbs/icons/blob/main/icons/envelope-fill.svg" /></a>
+  <a href="https://www.linkedin.com/in/martins-adebayo-6234191b8/" target="_blank"><img align="left" alt="Bayomi LinkedIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a/>
+    <a href="https://x.com/Bayomi_Hiliz" target="_blank"><img align="left" alt="Bayomi X Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /><a/>
 <br />
   
 ---
